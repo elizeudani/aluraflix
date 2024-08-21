@@ -1,0 +1,45 @@
+<link
+href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+rel="stylesheet">
+<title>Aluraflix</title>
+<title>aluraflix</title>
+</head>
+
+<body>
+<header>ALURAFLIX</header>
+<header>ALURAFLIX</header>
+
+<section class="chamada">
+<div class="chamada-texto">
+    <h1>skinamarink</h1>
+    <p>#terror-psicologico</p>
+</div>
+<div>
+    <iframe width="560" height="315" src="iframe width="560 height="315" src="iframe width="560 height="315" src="https://www.youtube.com/embed/Se6k2xBgwqs?si=2t-LnkqDkHqaA_2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>""
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</section>
+<section class="categoria">
+<h2>Filmes e séries</h2>
+<div class="categoria-videos">
+    <a href="https://www.youtube.com/watch?v=obIWs9p0boE">
+        <img src="https://img.youtube.com/vi/obIWs9p0boE/maxresdefault.jpg" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=x1KDBuqviqg">
+        <img src="https://img.youtube.com/vi/x1KDBuqviqg/maxresdefault.jpg" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=z0QS--qLSQY">
+        <img src="https://img.youtube.com/vi/z0QS--qLSQY/maxresdefault.jpg" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
+        <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+    </a>
+    <a href="https://www.youtube.com/watch?v=I0VF90vxZT8">
+        <img src="https://img.youtube.com/vi/I0VF90vxZT8/maxresdefault.jpg" />
+    </a>
+</div>
+</section>
+</body>
+</html>
